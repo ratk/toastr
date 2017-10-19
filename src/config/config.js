@@ -15,10 +15,10 @@ export default {
     "short_name": "RRPS",
     // Possible values ltr(left to right)/rtl(right to left)
     "dir": "ltr",
-    
+
     // language: Default en-US
     "lang": "en-US",
-    
+
     // Orientation of web-app possible:
     // any, natural, landscape, landscape-primary, landscape-secondary, portrait, portrait-primary, portrait-secondary
     "orientation": "any",
@@ -30,7 +30,7 @@ export default {
   },
   seo: {
     title: "Common Title",
-    site_name: "My Site Name",
+    site_name: "Toastr",
     description: "This is some temporary description, used if no other description is found",
     twitter: {
       site: "@atyantik_tech",
@@ -38,26 +38,26 @@ export default {
     },
     facebook: {
       admins: [
-        "1501220844",
-        "765904161",
-      ],
-    },
-    meta: [
-      {
-        name:"viewport",
-        content: "width=device-width, initial-scale=1"
-      },
-      {
-        name:"theme-color",
-        content: "#fff"
-      },
-      {
-        charSet: "utf-8",
-      },
-      {
-        httpEquiv: "x-ua-compatible",
-        content: "ie=edge",
-      }
-    ],
+"1501220844",
+  "765904161",
+],
+},
+meta: [
+  {
+    name:"viewport",
+    content: "width=device-width, initial-scale=1"
   },
+  {
+    name:"theme-color",
+    content: "#fff"
+  },
+  {
+    charSet: "utf-8",
+  },
+  {
+    httpEquiv: "x-ua-compatible",
+    content: "ie=edge",
+  }
+],
+},
 };

@@ -102,7 +102,9 @@
   "author": "Tirth Bodawala",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^4.5.2",
     "opencollective": "^1.0.3",
+    "reactstrap": "^4.8.0",
     "twitter": "^1.7.1"
   },
   "collective": {
